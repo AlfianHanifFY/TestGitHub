@@ -1,0 +1,17 @@
+tutorial python simpel bgt
+
+secara umum python punya beberapa jenis data
+yang penting tuh  ada : (urut sesuai prioritas) *subjektif*
+  string -> semacam text
+  integer -> angka yang bisa di operasikan
+  array -> himpunan data
+
+sebenernya masih ada yang lain, cuma nanti aja...
+
+langsung ke materi 1
+gimana cara nampilin data?
+
+contoh
+print("hello world")
+
+....
