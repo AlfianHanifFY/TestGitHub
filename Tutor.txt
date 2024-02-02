@@ -2,7 +2,7 @@ tutorial python simpel bgt
 
 secara umum python punya beberapa jenis data
 yang penting tuh  ada : (urut sesuai prioritas) *subjektif*
-  string -> semacam text
+  string -> semacam text -> ditandai dengan tanda petik
   integer -> angka yang bisa di operasikan
   array -> himpunan data
 
@@ -13,5 +13,39 @@ gimana cara nampilin data?
 
 contoh
 print("hello world")
+
+di termial kalian bakal muncul
+>> Hello World
+
+simple kan?????
+
+nah gimana kalo mau nampilin hal lain kyk angka ?
+tinggal...
+print("1")
+>> 1
+
+sederhana dong... kayak yang udah ditulis di atas kalo pake tanda "..." artinya dia text / string
+jadi kalo kalian ketik
+
+print("1 + 1")
+>> 1 + 1
+
+tapi... kalo kalian ga pake petik
+
+print(1 + 1)
+>> 2
+
+simpel toh , kalo pake petik berarti dia text kalo ga pake dia angka/bilangan
+
+sederhana....
+
+
+
+
+
+
+
+
+
 
 ....
