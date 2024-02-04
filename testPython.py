@@ -5,4 +5,5 @@ for i in range(2):
    
 for i in range(20):
    print('halo')
+   print("abc")
 
